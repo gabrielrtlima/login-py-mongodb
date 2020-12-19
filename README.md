@@ -1,4 +1,4 @@
-#Sistema de login
+# Sistema de login
 
 *Projeto pessoal para aprender na prática o uso do banco de dados MongoDB.*
 
@@ -20,7 +20,7 @@
 
 
 
-##ABOUT ME
+## ABOUT ME
 
 Oi, me chamo Gabriel. Sou estudando de Eng. de Software na UPE - Universidade de Pernambuco, uso do meu GitHub para compartilhar projetos pessoais enquanto me aventuro por novas linguagens, bibliotecas e afins.
 

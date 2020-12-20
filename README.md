@@ -32,7 +32,7 @@ Oi, me chamo Gabriel. Sou estudante de Eng. de Software na UPE - Universidade de
 
 ## Projetos
 
-[Collision](https://github.com/gabrielrtlima/collision) - *Jogo rêtro usando o pyxel.*
+[Collision](https://github.com/gabrielrtlima/collision) - *Jogo retrô usando o pyxel.*
 
 
 
